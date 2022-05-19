@@ -1,5 +1,6 @@
 function scuberGreetingForFeet(){
   // Write your code here!
+  console.log("Hello, World!")
 }
 
 function ternaryCheckCity(){
@@ -9,3 +10,4 @@ function ternaryCheckCity(){
 function switchOnCharmFromTip(){
   // Write your code here!
 }
+console.log("Hello, World!")
